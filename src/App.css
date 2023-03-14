@@ -1,5 +1,5 @@
 /*=============== GOOGLE FONTS ===============*/
-@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
 /*=============== VARIABLES CSS ===============*/
 :root {
@@ -16,7 +16,7 @@
   --container-color: #fff;
 
   /*========== Font and typography ==========*/
-  --body-font: 'Space Grotesk', sans-serif;
+  --body-font: 'Inter', sans-serif;
 
   /*.5rem = 8px | 1rem = 16px ...*/
   --big-font-size: 3.5rem;
@@ -32,6 +32,7 @@
   --font-normal: 400;
   --font-medium: 500;
   --font-semi-bold: 600;
+  --font-bold: 700;
 
   /*========== Margenes Bottom ==========*/
   /*.5rem = 8px | 1rem = 16px ...*/
